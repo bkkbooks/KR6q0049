@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6q0049/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 先覺集
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X87/X87n1619.xml
+    old_id: X87n1619
+hash: sha256:72f7020f6fcc8dd5bf2843e9f15a6610f0ba000b2b0ff60dcdf229b4986d4284
